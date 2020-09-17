@@ -1,0 +1,7 @@
+runtime: php73
+
+env_variables:
+  APP_KEY: fK1HEcWg3CIy6uU2nm8Haq37EIz+ckvHr+XvN2iUPig=
+  APP_STORAGE: /tmp
+  VIEW_COMPILED_PATH: /tmp
+  SESSION_DRIVER: cookie
